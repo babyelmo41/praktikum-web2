@@ -14,7 +14,7 @@
                     </tr>
                     <tr>
                         <td align="right" width="50%"><strong>Nama Lengkap :</strong></td>
-                        <td align="left" width="50%">Izza Fahlevi</td>
+                        <td align="left" width="50%">Aulia Izza Fahlevi</td>
                     </tr>
                     <tr>
                         <td align="right" width="50%"><strong>Tempat, Tanggal Lahir :</strong></td>
